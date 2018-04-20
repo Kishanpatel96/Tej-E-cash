@@ -1,4 +1,18 @@
 ###################
+What is Tej E-cash
+###################
+
+This is Digital currency. This is used to buy product , mobile recharge and electricity bill payment.
+User can sign up with his\her gmail id.
+User can transfer the Tej to the other user.
+User can give the KYC document and bank details.
+User can see his\her Transaction details.
+
+
+
+
+
+###################
 What is CodeIgniter
 ###################
 
